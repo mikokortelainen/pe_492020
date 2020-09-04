@@ -1,0 +1,23 @@
+body {
+  background-color: #6FD08C;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+table {
+  margin-top: 10px;
+  display: inline-block;
+  border-collapse: collapse;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#korttiArvonta {
+  font-size: 25px;
+}
+
+#numeroVastaus {
+  font-size: 25px;
+}
